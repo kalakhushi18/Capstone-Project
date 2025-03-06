@@ -54,6 +54,8 @@ pip install -r requirements.txt
 Run the Jupyter Notebook or Python script to:
 
 Perform EDA and visualizations
+
 Preprocess tweets for sentiment analysis
+
 Train machine learning models for price prediction
 
